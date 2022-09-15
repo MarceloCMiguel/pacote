@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 dev_aberto/__init__.py
@@ -5,5 +6,5 @@ dev_aberto/dev_aberto.py
 dev_aberto_marcelocm8.egg-info/PKG-INFO
 dev_aberto_marcelocm8.egg-info/SOURCES.txt
 dev_aberto_marcelocm8.egg-info/dependency_links.txt
-dev_aberto_marcelocm8.egg-info/requires.txt
 dev_aberto_marcelocm8.egg-info/top_level.txt
+script/hello.py
